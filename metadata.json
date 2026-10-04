@@ -1,0 +1,6 @@
+{
+  "name": "KYN Store",
+  "description": "Offline-first Sari-Sari store inventory and POS management app with barcode scanning, stock alerts, and expiration tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

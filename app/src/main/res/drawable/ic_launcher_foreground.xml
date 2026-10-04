@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:pivotX="54"
+        android:pivotY="54">
+        <!-- Sari-Sari Store Awning Top -->
+        <path
+            android:fillColor="#F59E0B"
+            android:pathData="M28,34 L80,34 L82,42 L26,42 Z" />
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M26,42 Q30,48 34,42 Q38,48 42,42 Q46,48 50,42 Q54,48 58,42 Q62,48 66,42 Q70,48 74,42 Q78,48 82,42 L82,44 Q78,50 74,44 Q70,50 66,44 Q62,50 58,44 Q54,50 50,44 Q46,50 42,44 Q38,50 34,44 Q30,50 26,44 Z" />
+
+        <!-- Store Front / POS Box Container -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M30,48 L78,48 A4,4 0 0,1 82,52 L82,76 A4,4 0 0,1 78,80 L30,80 A4,4 0 0,1 26,76 L26,52 A4,4 0 0,1 30,48 Z" />
+
+        <!-- Barcode Lines inside the store container -->
+        <path
+            android:fillColor="#1E3A8A"
+            android:pathData="M34,54 L37,54 L37,74 L34,74 Z" />
+        <path
+            android:fillColor="#1E3A8A"
+            android:pathData="M39,54 L41,54 L41,74 L39,74 Z" />
+        <path
+            android:fillColor="#1E3A8A"
+            android:pathData="M44,54 L48,54 L48,74 L44,74 Z" />
+        <path
+            android:fillColor="#1E3A8A"
+            android:pathData="M50,54 L52,54 L52,74 L50,74 Z" />
+        <path
+            android:fillColor="#1E3A8A"
+            android:pathData="M55,54 L59,54 L59,74 L55,74 Z" />
+        <path
+            android:fillColor="#1E3A8A"
+            android:pathData="M62,54 L64,54 L64,74 L62,74 Z" />
+        <path
+            android:fillColor="#1E3A8A"
+            android:pathData="M67,54 L71,54 L71,74 L67,74 Z" />
+        <path
+            android:fillColor="#1E3A8A"
+            android:pathData="M73,54 L74,54 L74,74 L73,74 Z" />
+
+        <!-- Laser Scanner Beam -->
+        <path
+            android:fillColor="#EF4444"
+            android:pathData="M24,63 L84,63 L84,65 L24,65 Z" />
+    </group>
+</vector>
